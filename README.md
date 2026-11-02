@@ -111,7 +111,7 @@ Groupe 13 — SAÉ 2.2, BUT Informatique, Université de Caen Normandie.
 
 ## Répartition du travail et origine du code
 
-Ce dépôt regroupe plusieurs parties qui n'ont pas toutes été réalisées par l'équipe.
+Ce dépôt regroupe plusieurs parties qui n'ont pas toutes été réalisées par l'équipe, bien que dans une autre équipe pour un autre projet, j'y ai participé, cependant une version propre a été fourni par l'enseignant dans la réalisation du **front**.
 
 | Partie | Origine |
 |--------|---------|
@@ -123,6 +123,7 @@ Ce dépôt regroupe plusieurs parties qui n'ont pas toutes été réalisées par
 ### 🔗 Projet d'origine
 
 Le modèle du jeu et l'IA ainsi que le module `hexagonalCoordinate` où j'ai participé :
-(ajout plus tard)
+
+- [Module du jeu du Yinsh](https://github.com/nathtlg/Module-Jeu-du-Yinsh-)
 
 Les contributeurs de ce projet sont listés dans son propre README.
